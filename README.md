@@ -35,7 +35,7 @@ The **Automated Car Insurance** is designed to simplify and automate the car ins
 - **API**: Gemini API for chatbot functionality
 
 ## Live Demo
-
+ <a href="https://automated-car-insurance-startup.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 # Contributors
 - Shaikh Imran Nizamuddin
